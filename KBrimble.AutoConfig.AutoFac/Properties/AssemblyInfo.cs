@@ -1,16 +1,15 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KBrimble.AutoConfig.AutoFac")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple Ninject binding extension for Nerdle.AutoConfig")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("JUST EAT")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("KBrimble.AutoConfig.AutoFac")]
-[assembly: AssemblyCopyright("Copyright © JUST EAT 2016")]
+[assembly: AssemblyCopyright("Copyright © Kristian Brimble 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

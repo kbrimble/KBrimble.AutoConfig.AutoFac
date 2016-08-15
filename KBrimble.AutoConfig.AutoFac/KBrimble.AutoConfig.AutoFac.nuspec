@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/kbrimble/KBrimble.AutoConfig.AutoFac/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/kbrimble/KBrimble.AutoConfig.AutoFac</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Ninject binding extension for Nerdle.AutoConfig</description>
+    <copyright>Copyright 2016</copyright>
+    <dependencies>
+      <dependency id="AutoFac" version="3.5.0" />
+      <dependency id="Nerdle.AutoConfig" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
